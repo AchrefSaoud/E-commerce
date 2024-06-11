@@ -1,0 +1,53 @@
+.w-full {
+    width: 100%;
+}
+
+.h-auto {
+    height: auto;
+}
+
+.max-h-64 {
+    max-height: 16rem; /* Adjust as needed */
+}
+
+.sm\:max-h-80 {
+    max-height: 20rem; /* Adjust as needed */
+}
+
+/* Flexbox container to center the image vertically */
+.flex {
+    display: flex;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.justify-center {
+    justify-content: center;
+}
+/* Optional CSS for finer control over padding and margins */
+.py-24 {
+    padding-top: 6rem; /* 24 x 0.25rem */
+    padding-bottom: 6rem; /* 24 x 0.25rem */
+}
+
+.sm\:py-32 {
+    padding-top: 8rem; /* 32 x 0.25rem */
+    padding-bottom: 8rem; /* 32 x 0.25rem */
+}
+
+.mt-6 {
+    margin-top: 1.5rem; /* 6 x 0.25rem */
+}
+
+.max-h-96 {
+    max-height: 24rem; /* 96 x 0.25rem */
+}
+
+.sm\:max-h-96 {
+    max-height: 24rem; /* 96 x 0.25rem */
+}
+.newsl{
+    background-color: white !important;
+}
